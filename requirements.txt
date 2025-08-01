@@ -1,0 +1,10 @@
+# Python Dependencies
+
+# DNS resolution and record parsing
+dnspython>=2.0.0
+
+# HTTP requests for additional lookups (if needed)
+requests>=2.25.0
+
+# Enhanced terminal UI and formatting
+rich>=10.0.0
